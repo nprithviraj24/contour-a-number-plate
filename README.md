@@ -6,7 +6,7 @@ So this project will give you a hands-on on major tasks done in image processing
 
 ## Prerequisites
 - Basic programming skills in python or any another language. This is written in python.
-- OpenCV V.2.7+
+- OpenCV V.2.0+
 - Python 2.7+ or Python 3.5+.
 
 Soe of the additional libraries that are required: 
